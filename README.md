@@ -32,4 +32,4 @@ python main.py --frames 300 --fps 15 --out_path out.mp4
 
 Yields the following simulation:
 
-![Output sample](https://github.com/espenthaem/simple-boids/out.gif)
+![Output sample](https://raw.githubusercontent.com/espenthaem/simple-boids/master/out.gif)
