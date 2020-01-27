@@ -1,0 +1,16 @@
+# Simulation parameters
+WIDTH = 150
+HEIGHT = 150
+N_boids = 15
+N_obstacles = 1
+R_obstacle = 25
+# Boid behaviour parameters
+MAX_SPEED = 2.5
+ALIGN_MAX_FORCE = 0.5
+COHESION_MAX_FORCE = 0.025
+SEPARATION_MAX_FORCE = 0.025
+AVOIDANCE_MAX_FORCE = 0.5
+PERCEPTION = 5
+MAX_SEE_AHEAD = 10
+FRAME_RATE = 20
+
